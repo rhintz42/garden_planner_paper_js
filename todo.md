@@ -31,3 +31,4 @@
 * Add terrain
 * Make boxes right above terrain
 * Make organization with Backbone
+* After each milestone, write a blogpost about it
